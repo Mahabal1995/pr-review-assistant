@@ -48,4 +48,4 @@ It integrates with GitHub to:
 ### Clone the Repository
 ```bash
 git clone https://github.com/Mahabal1995/pr-review-assistant.git
-cd <repo-name>
+cd pr-review-assistant
