@@ -42,6 +42,9 @@ It integrates with GitHub to:
 - **Node.js 18+** (for frontend)
 - **GitHub Personal Access Token** (for GitHub API access)
 
+- #Author
+- Mahabal
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
